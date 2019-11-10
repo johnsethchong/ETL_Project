@@ -1,0 +1,70 @@
+﻿Year,Western_Champion,Eastern_Champion,Result,NBA_Champion,NBA-Vice-Champion,Final_Sweep_Status,MVP_Name,MVP_Height (m),MVP_Height (ft),MVP_Position,MVP_Team,MVP_Nationality,MVP_status
+1950,Minneapolis Lakers,Syracuse Nationals,4–2,Minneapolis Lakers,Syracuse Nationals,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1951,Rochester Royals,New York Knicks,4–3,Rochester Royals,New York Knicks,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1952,Minneapolis Lakers,New York Knicks,4–3,Minneapolis Lakers,New York Knicks,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1953,Minneapolis Lakers,New York Knicks,4–1,Minneapolis Lakers,New York Knicks,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1954,Minneapolis Lakers,Syracuse Nationals,4–3,Minneapolis Lakers,Syracuse Nationals,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1955,Fort Wayne Pistons,Syracuse Nationals,3–4,Syracuse Nationals,Fort Wayne Pistons,FALSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+1956,Fort Wayne Pistons,Philadelphia Warriors,1–4,Philadelphia Warriors,Fort Wayne Pistons,FALSE,Bob Pettit,2.06,6.76,Forward,Saint Louis Hawks,US,Not reached Final
+1957,St. Louis Hawks,Boston Celtics,3–4,Boston Celtics,St. Louis Hawks,FALSE,Bob Cousy,1.85,6.07,Guard,Boston Celtics,US,Champion
+1958,St. Louis Hawks,Boston Celtics,4–2,St. Louis Hawks,Boston Celtics,FALSE,Bill Russell,2.08,6.82,Center,Boston Celtics,US,Vice-Champion
+1959,Minneapolis Lakers,Boston Celtics,0–4,Boston Celtics,Minneapolis Lakers,TRUE,Bob Pettit,2.06,6.76,Forward,Saint Louis Hawks,US,Not reached Final
+1960,St. Louis Hawks,Boston Celtics,3–4,Boston Celtics,St. Louis Hawks,FALSE,Wilt Chamberlain,2.16,7.09,Center,Philadelphia Warriors,US,Not reached Final
+1961,St. Louis Hawks,Boston Celtics,1–4,Boston Celtics,St. Louis Hawks,FALSE,Bill Russell,2.08,6.82,Center,Boston Celtics,US,Champion
+1962,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,FALSE,Bill Russell,2.08,6.82,Center,Boston Celtics,US,Champion
+1963,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,FALSE,Bill Russell,2.08,6.82,Center,Boston Celtics,US,Champion
+1964,San Francisco Warriors,Boston Celtics,1–4,Boston Celtics,San Francisco Warriors,FALSE,Oscar Robertson,1.96,6.43,Guard,Cincinnati Royals,US,Not reached Final
+1965,Los Angeles Lakers,Boston Celtics,1–4,Boston Celtics,Los Angeles Lakers,FALSE,Bill Russell,2.08,6.82,Center,Boston Celtics,US,Champion
+1966,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,FALSE,Wilt Chamberlain,2.16,7.09,Center,Philadelphia 76ers,US,Not reached Final
+1967,San Francisco Warriors,Philadelphia 76ers,2–4,Philadelphia 76ers,San Francisco Warriors,FALSE,Wilt Chamberlain,2.16,7.09,Center,Philadelphia 76ers,US,Champion
+1968,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,FALSE,Wilt Chamberlain,2.16,7.09,Center,Philadelphia 76ers,US,Not reached Final
+1969,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,FALSE,Wes Unseld,2.01,6.59,Center,Baltimore Bullets,US,Not reached Final
+1970,Los Angeles Lakers,New York Knicks,3–4,New York Knicks,Los Angeles Lakers,FALSE,Willis Reed,2.06,6.76,Center,New York Knicks,US,Champion
+1971,Milwaukee Bucks,Baltimore Bullets,4–0,Milwaukee Bucks,Baltimore Bullets,TRUE,Kareem Abdul-Jabbar,2.18,7.15,Center,Milwaukee Bucks,US,Champion
+1972,Los Angeles Lakers,New York Knicks,4–1,Los Angeles Lakers,New York Knicks,FALSE,Kareem Abdul-Jabbar,2.18,7.15,Center,Milwaukee Bucks,US,Not reached Final
+1973,Los Angeles Lakers,New York Knicks,1–4,New York Knicks,Los Angeles Lakers,FALSE,Dave Cowens,2.06,6.76,Center,Boston Celtics,US,Not reached Final
+1974,Milwaukee Bucks,Boston Celtics,3–4,Boston Celtics,Milwaukee Bucks,FALSE,Kareem Abdul-Jabbar,2.18,7.15,Center,Milwaukee Bucks,US,Vice-Champion
+1975,Golden State Warriors,Washington Bullets,4–0,Golden State Warriors,Washington Bullets,TRUE,Bob McAdoo,2.06,6.76,Center,Buffalo Braves,US,Not reached Final
+1976,Phoenix Suns,Boston Celtics,2–4,Boston Celtics,Phoenix Suns,FALSE,Kareem Abdul-Jabbar,2.18,7.15,Center,Los Angeles Lakers,US,Not reached Final
+1977,Portland Trail Blazers,Philadelphia 76ers,4–2,Portland Trail Blazers,Philadelphia 76ers,FALSE,Kareem Abdul-Jabbar,2.18,7.15,Center,Los Angeles Lakers,US,Not reached Final
+1978,Seattle SuperSonics,Washington Bullets,3–4,Washington Bullets,Seattle SuperSonics,FALSE,Bill Walton,2.11,6.92,Center,Portland Trail Blazers,US,Not reached Final
+1979,Seattle SuperSonics,Washington Bullets,4–1,Seattle SuperSonics,Washington Bullets,FALSE,Moses Malone,2.08,6.82,Center,Houston Rockets,US,Not reached Final
+1980,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,FALSE,Kareem Abdul-Jabbar,2.18,7.15,Center,Los Angeles Lakers,US,Champion
+1981,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,FALSE,Julius Erving,2.01,6.59,Forward,Philadelphia 76ers,US,Not reached Final
+1982,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,FALSE,Moses Malone,2.08,6.82,Center,Houston Rockets,US,Not reached Final
+1983,Los Angeles Lakers,Philadelphia 76ers,0–4,Philadelphia 76ers,Los Angeles Lakers,TRUE,Moses Malone,2.08,6.82,Center,Philadelphia 76ers,US,Champion
+1984,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,FALSE,Larry Bird,2.06,6.76,Forward,Boston Celtics,US,Champion
+1985,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,FALSE,Larry Bird,2.06,6.76,Forward,Boston Celtics,US,Vice-Champion
+1986,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,FALSE,Larry Bird,2.06,6.76,Forward,Boston Celtics,US,Champion
+1987,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,FALSE,Magic Johnson,2.06,6.76,Guard,Los Angeles Lakers,US,Champion
+1988,Los Angeles Lakers,Detroit Pistons,4–3,Los Angeles Lakers,Detroit Pistons,FALSE,Michael Jordan,1.98,6.5,Guard,Chicago Bulls,US,Not reached Final
+1989,Los Angeles Lakers,Detroit Pistons,0–4,Detroit Pistons,Los Angeles Lakers,TRUE,Magic Johnson,2.06,6.76,Guard,Los Angeles Lakers,US,Vice-Champion
+1990,Portland Trail Blazers,Detroit Pistons,1–4,Detroit Pistons,Portland Trail Blazers,FALSE,Magic Johnson,2.06,6.76,Guard,Los Angeles Lakers,US,Not reached Final
+1991,Los Angeles Lakers,Chicago Bulls,1–4,Chicago Bulls,Los Angeles Lakers,FALSE,Michael Jordan,1.98,6.5,Guard,Chicago Bulls,US,Champion
+1992,Portland Trail Blazers,Chicago Bulls,2–4,Chicago Bulls,Portland Trail Blazers,FALSE,Michael Jordan,1.98,6.5,Guard,Chicago Bulls,US,Champion
+1993,Phoenix Suns,Chicago Bulls,2–4,Chicago Bulls,Phoenix Suns,FALSE,Charles Barkley,1.98,6.5,Forward,Phoenix Suns,US,Vice-Champion
+1994,Houston Rockets,New York Knicks,4–3,Houston Rockets,New York Knicks,FALSE,Hakeem Olajuwon,2.13,6.99,Center,Houston Rockets,Nigeria,Champion
+1995,Houston Rockets,Orlando Magic,4–0,Houston Rockets,Orlando Magic,TRUE,David Robinson,2.16,7.09,Center,San Antonio Spurs,US,Not reached Final
+1996,Seattle SuperSonics,Chicago Bulls,2–4,Chicago Bulls,Seattle SuperSonics,FALSE,Michael Jordan,1.98,6.5,Guard,Chicago Bulls,US,Champion
+1997,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,FALSE,Karl Malone,2.06,6.76,Forward,Utah Jazz,US,Vice-Champion
+1998,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,FALSE,Michael Jordan,1.98,6.5,Guard,Chicago Bulls,US,Champion
+1999,San Antonio Spurs,New York Knicks,4–1,San Antonio Spurs,New York Knicks,FALSE,Karl Malone,2.06,6.76,Forward,Utah Jazz,US,Not reached Final
+2000,Los Angeles Lakers,Indiana Pacers,4–2,Los Angeles Lakers,Indiana Pacers,FALSE,Shaquille O'Neal,2.16,7.09,Center,Los Angeles Lakers,US,Champion
+2001,Los Angeles Lakers,Philadelphia 76ers,4–1,Los Angeles Lakers,Philadelphia 76ers,FALSE,Allen Iverson,1.83,6,Guard,Philadelphia 76ers,US,Vice-Champion
+2002,Los Angeles Lakers,New Jersey Nets,4–0,Los Angeles Lakers,New Jersey Nets,TRUE,Tim Duncan,2.11,6.92,Forward,San Antonio Spurs,US,Not reached Final
+2003,San Antonio Spurs,New Jersey Nets,4–2,San Antonio Spurs,New Jersey Nets,FALSE,Tim Duncan,2.11,6.92,Forward,San Antonio Spurs,US,Champion
+2004,Los Angeles Lakers,Detroit Pistons,1–4,Detroit Pistons,Los Angeles Lakers,FALSE,Kevin Garnett,2.11,6.92,Forward,Minnesota Timberwolves,US,Not reached Final
+2005,San Antonio Spurs,Detroit Pistons,4–3,San Antonio Spurs,Detroit Pistons,FALSE,Steve Nash,1.91,6.27,Guard,Phoenix Suns,Canada,Not reached Final
+2006,Dallas Mavericks,Miami Heat,2–4,Miami Heat,Dallas Mavericks,FALSE,Steve Nash,1.91,6.27,Guard,Phoenix Suns,Canada,Not reached Final
+2007,San Antonio Spurs,Cleveland Cavaliers,4–0,San Antonio Spurs,Cleveland Cavaliers,TRUE,Dirk Nowitzki,2.13,6.99,Forward,Dallas Mavericks,Germany,Not reached Final
+2008,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,FALSE,Kobe Bryant,1.98,6.5,Guard,Los Angeles Lakers,US,Vice-Champion
+2009,Los Angeles Lakers,Orlando Magic,4–1,Los Angeles Lakers,Orlando Magic,FALSE,Lebron James,2.03,6.66,Forward,Cleveland Cavaliers,US,Not reached Final
+2010,Los Angeles Lakers,Boston Celtics,4–3,Los Angeles Lakers,Boston Celtics,FALSE,Lebron James,2.03,6.66,Forward,Cleveland Cavaliers,US,Not reached Final
+2011,Dallas Mavericks,Miami Heat,4–2,Dallas Mavericks,Miami Heat,FALSE,Derrick Rose,1.91,6.27,Guard,Chicago Bulls,US,Not reached Final
+2012,Oklahoma City Thunder,Miami Heat,1–4,Miami Heat,Oklahoma City Thunder,FALSE,Lebron James,2.03,6.66,Forward,Miami Heat,US,Champion
+2013,San Antonio Spurs,Miami Heat,3–4,Miami Heat,San Antonio Spurs,FALSE,Lebron James,2.03,6.66,Forward,Miami Heat,US,Champion
+2014,San Antonio Spurs,Miami Heat,4–1,San Antonio Spurs,Miami Heat,FALSE,Kevin Durant,2.06,6.76,Forward,Oklahoma City Thunder,US,Not reached Final
+2015,Golden State Warriors,Cleveland Cavaliers,4–2,Golden State Warriors,Cleveland Cavaliers,FALSE,Stephen Curry,1.91,6.27,Guard,Golden State Warriors,US,Champion
+2016,Golden State Warriors,Cleveland Cavaliers,4–3,Cleveland Cavaliers,Golden State Warriors,FALSE,Stephen Curry,1.91,6.27,Guard,Golden State Warriors,US,Vice-Champion
+2017,Golden State Warriors,Cleveland Cavaliers,2-Apr,Golden State Warriors,Cleveland Cavaliers,FALSE,Russell Westbrook,1.91,6.27,Guard,Oklahoma City Thunder,US,Not reached Final
+2018,Golden State Warriors,Cleveland Cavaliers,Apr-00,Golden State Warriors,Cleveland Cavaliers,TRUE,James Harden,1.96,6.5,Guard,Houston Rockets,US,Not reached Final
