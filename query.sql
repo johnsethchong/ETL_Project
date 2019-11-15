@@ -20,7 +20,7 @@ select * from mvp;
 select * from players;
 select * from salaries;
 
-SELECT distinct mvp.year as "Championship Year", players.player_id as "Player ID", mvp.name as "Regular Season MVP", mvp.team as "MVP Team", salaries.avg_salary_per_player as "Average Salary", mvp.finals_status as "Finals Status"
+SELECT distinct mvp.year as "Year", players.player_id as "Player ID", mvp.name as "Regular Season MVP", mvp.team as "MVP Team", salaries.avg_salary_per_player as "Average Salary", mvp.finals_status as "Finals Status"
 FROM mvp
 JOIN players ON mvp.name = players.name
 JOIN salaries ON salaries.player_id = players.player_id
