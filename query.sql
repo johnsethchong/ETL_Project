@@ -1,7 +1,7 @@
--- Create tables for raw data to be loaded into
 CREATE TABLE mvp (
 year INT PRIMARY KEY,
 name VARCHAR(30),
+team VARCHAR(30),
 finals_status VARCHAR(30)
 );
 
@@ -11,16 +11,18 @@ name VARCHAR(30)
 );
 
 CREATE TABLE salaries (
-year INT,
 player_id VARCHAR(30),
-salary INT
+avg_salary_per_player MONEY
 );
 
+-- Query to check successful load
+select * from mvp;
+select * from players;
+select * from salaries;
 
+SELECT distinct mvp.year as "Championship Year", players.player_id as "Player ID", mvp.name as "Regular Season MVP", mvp.team as "MVP Team", salaries.avg_salary_per_player as "Average Salary", mvp.finals_status as "Finals Status"
+FROM mvp
+JOIN players ON mvp.name = players.name
+JOIN salaries ON salaries.player_id = players.player_id
+where mvp.year between '1950' and '2018';
 
-
--- -- Joins tables
--- SELECT customer_name.id, customer_name.first_name, customer_name.last_name, customer_location.address, customer_location.us_state
--- FROM customer_name
--- JOIN customer_location
--- ON customer_name.id = customer_location.id;
