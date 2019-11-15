@@ -1,0 +1,2 @@
+  We obtained our CSV data files from data.world. Our files contained information on NBA players, their salaries, championship winners, and regular season MVPs. Our goal was to manipulate the files to create a data set where we can visualize the regular season's MVP, his team, his average salary, and how well his team did in regards to the file. We did this by extracting data from our CSV files (located in the Resources Folder), transform each file into data sets using Python/Jupyter Notebook, and loading our data into a final dataset from within our PostGreSQL server.
+  
