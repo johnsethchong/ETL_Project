@@ -5,3 +5,5 @@
 <b>ETL(TRANSFORM)</b><br> There were many columns that were not needed for the final table such as the players height, the college they went to, etc. Overall, the majority of columns from the csv files were ignored because the final table only required a few columns. One of the transformations we made to the data was on the salaries of the players. The original CSV file contains multiple values for the salary on one player based on year. What we decided to do was to get the average salary of the player instead of use multiple rows for one player. We also added "$" and "," to the salary figures. 
 
 <b>ETL(LOAD)</b><br> The final table was loaded into a Postgres server and used PgAdmin to obtain the final resulting table displaying the player with their salary and mvp status.  
+<br>
+<a href="https://public.tableau.com/app/profile/johnsethchong/viz/NBAMVPData/Story1">Tableau Visualization Link</a>
